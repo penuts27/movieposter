@@ -26,6 +26,7 @@
 `node npm - gulp`  
 `ejs`  
 `javascript` 
+`JavaScript Standard Style`
 
 ## 指令列表
 
