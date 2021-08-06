@@ -1,0 +1,13 @@
+.card-mode,
+.list-mode {
+  color: #bbb;
+  cursor: pointer;
+}
+.card-mode.active,
+.list-mode.active {
+  cursor: auto;
+  color: #222;
+}
+.card-body{
+  min-height: 112px;
+}
