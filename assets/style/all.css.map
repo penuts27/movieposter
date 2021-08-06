@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.scss"],"names":[],"mappings":"AAAA;;EAEE,WAAW;EACX,eAAe,EAAA;;AAEjB;;EAEE,YAAY;EACZ,WAAW,EAAA;;AAEb;EACE,iBAAiB,EAAA","file":"all.css","sourcesContent":[".card-mode,\n.list-mode {\n  color: #bbb;\n  cursor: pointer;\n}\n.card-mode.active,\n.list-mode.active {\n  cursor: auto;\n  color: #222;\n}\n.card-body{\n  min-height: 112px;\n}"]}
